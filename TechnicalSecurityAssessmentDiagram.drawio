@@ -1,0 +1,202 @@
+<mxfile host="app.diagrams.net" modified="2021-09-08T06:03:22.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="17sQyrBv8QUXlVsLfMJG" version="15.1.1" type="github">
+  <diagram id="o0CCOhu84U7PRNzg7-ML" name="Page-1">
+    <mxGraphModel dx="2207" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-74" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="-1040" y="100" width="1670" height="1606" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-75" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry width="1670" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-76" value="&lt;b&gt;&lt;u&gt;&lt;i&gt;Function&lt;/i&gt;&lt;/u&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#6c8ebf;" parent="w6XhrknjYrtz_f-QUOUW-75" vertex="1">
+          <mxGeometry width="128" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-77" value="&lt;u&gt;&lt;i&gt;&lt;b&gt;Objective&lt;/b&gt;&lt;/i&gt;&lt;/u&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#6c8ebf;" parent="w6XhrknjYrtz_f-QUOUW-75" vertex="1">
+          <mxGeometry x="128" width="152" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-78" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;Risk&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#6c8ebf;" parent="w6XhrknjYrtz_f-QUOUW-75" vertex="1">
+          <mxGeometry x="280" width="290" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-79" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;Test &amp;amp; Mitigation Steps&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#6c8ebf;" parent="w6XhrknjYrtz_f-QUOUW-75" vertex="1">
+          <mxGeometry x="570" width="330" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-80" value="&lt;b&gt;&lt;i&gt;&lt;u&gt;Expected Results&lt;/u&gt;&lt;/i&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#6c8ebf;" parent="w6XhrknjYrtz_f-QUOUW-75" vertex="1">
+          <mxGeometry x="900" width="740" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-81" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-75" vertex="1">
+          <mxGeometry x="1640" width="30" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-82" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="88" width="1670" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-83" value="Web site security" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-82" vertex="1">
+          <mxGeometry width="128" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-84" value="Some part of fields not&#xa;being properly coded.  -- input validation." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-82" vertex="1">
+          <mxGeometry x="128" width="152" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-85" value="*Input validation: Input validation is a frequently-used technique for checking potentially dangerous inputs in order to ensure that the inputs are safe for processing within the code, or when communicating with other components. *Presence Of Broken Links: A HTML page include links to open a new page. Sometimes this link does not work, so you cannat open a new page. when you click on a broken link, you will be taken to a 404 page. Slow Loading Time:For example; you create an account on  a toll road authority (TRA) web page than you wants to see toll fees. He/she click toll fees button and it takes time more than 1 minute. this is a very bad experience for users. user do not want to waste their time.Mobile Incompatibility: If your website isn’t mobile-friendly, it will affect how it’s displayed on mobile devices." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-82" vertex="1">
+          <mxGeometry x="280" width="290" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-86" value="***Checking data before using it&#xa;○ Can either clear out malicious data or reject the whole submission&#xa;○ Verifying Proper Characters - Only the right characters for that field, such as&#xa;only numbers in a US zip&#xa;○ Implementing boundary or range checking - if max purchase is three, can only&#xa;submit 3 or less&#xa;○ Blocking HTML code&#xa;○ Preventing the use of certain characters - such as dash, apostrophe, and&#xa;equal sign&#xa;***Client-Side and Server-Side Input Validation&#xa;○ Client side is quicker, but vulnerable&#xa;○ Server side takes longer, but is secure&#xa;○ If you disable javascript, you can often get through client side validation in a web browser.                        ___Cheking web page links, loading time and moobile looking." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-82" vertex="1">
+          <mxGeometry x="570" width="330" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-87" value="Ensure only properly formed data is entering the workflow in an information system.&#xa;Preventing malformed data from persisting in the database and triggering malfunction of various downstream components&#xa;Data from all potentially untrusted sources should be subject to input validation, including not only Internet-facing web clients but also backend feeds over extranets, from suppliers, partners, vendors or regulators, each of which may be compromised on their own and start sending malformed data." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-82" vertex="1">
+          <mxGeometry x="900" width="740" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-88" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-82" vertex="1">
+          <mxGeometry x="1640" width="30" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-89" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="380" width="1670" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-90" value="WebLogic servers" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-89" vertex="1">
+          <mxGeometry width="128" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-91" value="Servers should properly patch. All servers and devices should add an inventory list. Use encryption for data at rest and data in transit. Add DLP. Add load balancer." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-89" vertex="1">
+          <mxGeometry x="128" width="152" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-92" value="Unpatch software is a vulnerability for company. If a software app is not in an inventory, you can miss it when you check unpatch systems. Encryption is a strong way for providing confidentialty. Data breach can occure. Outage and low availability." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-89" vertex="1">
+          <mxGeometry x="280" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-93" value="Add all software an inventory. Determine unpatch software and patch them. Use proper encyrption model both data at rest and data in transit. DLP tools prevent data lost. Load balancer increase availability. Prevent outages and mitigate potential risks." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-89" vertex="1">
+          <mxGeometry x="570" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-94" value="All software at inventory. There is no unpatched software. Using proper encryption prevent data breach. No data lost. High availability. No outage." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-89" vertex="1">
+          <mxGeometry x="900" width="740" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-95" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-89" vertex="1">
+          <mxGeometry x="1640" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-96" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="520" width="1670" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-97" value="Database security" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-96" vertex="1">
+          <mxGeometry width="128" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-98" value="Use Standard Hardening Configuration Templates for Databases" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-96" vertex="1">
+          <mxGeometry x="128" width="152" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-99" value="&lt;div&gt;Most popular browsers employ a database of phishing and/or malware sites to protect against&amp;nbsp;&lt;/div&gt;&lt;div&gt;the most common threats.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-96" vertex="1">
+          <mxGeometry x="280" width="290" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-100" value="&lt;div&gt;For applications that rely on a database, use&amp;nbsp;&lt;/div&gt;&lt;div&gt;standard hardening configuration templates. All&amp;nbsp;&lt;/div&gt;&lt;div&gt;systems that are part of critical business processes&amp;nbsp;&lt;/div&gt;&lt;div&gt;should also be tested. Make sure that you and your users enable these content filters and turn on the popup blockers. Popups are not only annoying, they also can host embedded malware directly or lure users into clicking on something using social engineering tricks. To help enforce blocking of known malicious domains, also consider subscribing to DNS filtering services to block attempts to access these websites at the network level.&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-96" vertex="1">
+          <mxGeometry x="570" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-101" value="&#xa;&#xa;&lt;span style=&quot;font-size: 10pt ; font-family: &amp;quot;arial&amp;quot; ; font-style: normal&quot;&gt;The completeness and accuracy of transactions is confirmed. Exploits launched against them do not succeed. &lt;/span&gt;&#xa;&#xa;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-96" vertex="1">
+          <mxGeometry x="900" width="740" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-102" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-96" vertex="1">
+          <mxGeometry x="1640" width="30" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="750" width="1670" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-104" value="Transaction processing" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-103" vertex="1">
+          <mxGeometry width="128" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-105" value="OLTP or Online Transaction Processing is a type of data processing that consists of executing a number of transactions occurring concurrently—online banking, shopping, order entry, or sending text messages, for example. These transactions traditionally are referred to as economic or financial transactions, recorded and secured so that an enterprise can access the information anytime for accounting or reporting purposes." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-103" vertex="1">
+          <mxGeometry x="128" width="152" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-106" value="To earnings and capital arising from fraud, error, negligence and the inability to maintain expected service levels. A high level of transaction risk may exist with Internet banking products, because of the need to have sophisticated internal controls&amp;nbsp; and&amp;nbsp; constant availability.&amp;nbsp; Most&amp;nbsp; Internet&amp;nbsp; banking&amp;nbsp; platforms&amp;nbsp; are based&amp;nbsp; on&amp;nbsp; new platforms which use complex interfaces to link with legacy systems, thereby increasing risk of transaction errors. There is also a need to ensure data integrity and nonrepudiation of&amp;nbsp; transactions.&amp;nbsp; Third-party&amp;nbsp; providers&amp;nbsp; also&amp;nbsp; increase&amp;nbsp; transaction&amp;nbsp; risks,&amp;nbsp; since&amp;nbsp; the organization does not have full control over a third party. Without seamless process and system connections&amp;nbsp; between the&amp;nbsp; bank and the&amp;nbsp; third party, there&amp;nbsp; is a&amp;nbsp; moderate&amp;nbsp; risk of transaction." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-103" vertex="1">
+          <mxGeometry x="280" width="290" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-107" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Atomicity, Consistency, Isolation, and Durability. To mitigate integrity concerns an ACID test should be implemented. The ACID test consists of Atomicity, Consistency, Isolation, and Durability.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-103" vertex="1">
+          <mxGeometry x="570" width="330" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-108" value="&lt;div&gt;*ACID compliance: OLTP systems must ensure that the entire transaction is recorded correctly. A transaction is usually an execution of a program that may require the execution of multiple steps or operations.&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Atomic: Atomicity controls guarantee that all the steps in a transaction are completed successfully as a group.&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Consistent: The transaction preserves the internal consistency of the database.&lt;/div&gt;&lt;div&gt;-Isolated: The transaction executes as if it were running alone, with no other transactions.&amp;nbsp;&lt;/div&gt;&lt;div&gt;-Durable: The transaction’s results will not be lost in a failure.&lt;/div&gt;&lt;div&gt;*Concurrency:The system must ensure that all these users trying to read or write into the system can do so concurrently.&lt;/div&gt;&lt;div&gt;*Scale: OLTP systems must be able to scale up and down instantly to manage the transaction volume in real time and execute transactions concurrently, irrespective of the number of users trying to access the system.&lt;/div&gt;&lt;div&gt;*Availability:the system must be available 24/7.&lt;/div&gt;&lt;div&gt;*High throughput and short response time:systems require nanosecond or even shorter response times to keep enterprise users productive and to meet the growing expectations of customers.&lt;/div&gt;&lt;div&gt;*Reliability:It is paramount that at any given point of time the data in the database is reliable and trustworthy for the users and applications accessing that data.&lt;/div&gt;&lt;div&gt;*Security: Because these systems store highly sensitive customer transaction data, data security is critical. Any breach can be very costly for the company.&lt;/div&gt;&lt;div&gt;*Recoverability: OLTP systems must have the ability to recover in case of any hardware or software failure.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="w6XhrknjYrtz_f-QUOUW-103" vertex="1">
+          <mxGeometry x="900" width="740" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-109" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-103" vertex="1">
+          <mxGeometry x="1640" width="30" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-110" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="1030" width="1670" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-111" value="Remote access security" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-110" vertex="1">
+          <mxGeometry width="128" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-112" value="&amp;nbsp;Shared accounts are not used, and proper logging and monitoring are in place to ensure and track users logging in at odd hours." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-110" vertex="1">
+          <mxGeometry x="128" width="152" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-113" value="Open unnessary accounts are cause problems. Share accounts individual tracking can be difficult." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-110" vertex="1">
+          <mxGeometry x="280" width="290" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-114" value="&lt;div&gt;Make sure that high value features like multi-factor authentication (MFA), high availability (HA), privilege account management (PAM) and role based access controls (RBAC) are part of the solution.&lt;/div&gt;&lt;div&gt;Look for solutions that support session monitoring -- this way, there is accountability and visibility for privileged activity.&lt;/div&gt;&lt;div&gt;Do not forget about your nonhuman services and application accounts. Nonhuman accounts are major sources of operational and security risk. Companies need a tool that allows them to eliminate hard-coded, plain text account passwords from scripts and applications.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-110" vertex="1">
+          <mxGeometry x="570" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-115" value="You should see a reduction in shared account activity and be able to pinpoint responsibility for actions performed by accounts." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-110" vertex="1">
+          <mxGeometry x="900" width="740" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-116" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-110" vertex="1">
+          <mxGeometry x="1640" width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-117" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="1240" width="1670" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-118" value="Proper separation of the PROD, DEV and TEST environments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-117" vertex="1">
+          <mxGeometry width="128" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-119" value="Separation of duties (SoD) is a key concept of internal controls and is the most difficult and sometimes the most costly one to achieve. This objective is achieved by disseminating the tasks and associated privileges for a specific security process among multiple people." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-117" vertex="1">
+          <mxGeometry x="128" width="152" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-120" value="This segregation of duties is often difficult to achieve in small businesses, but should be implemented as much as possible. In some cases, it may result in an employee from another department being responsible for one of the functions." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-117" vertex="1">
+          <mxGeometry x="280" width="290" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-121" value="&lt;div&gt;It ensures that there is oversight and review to catch errors&lt;/div&gt;&lt;div&gt;It helps to prevent fraud or theft because it requires two people to collude in order to hide a transaction.&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-117" vertex="1">
+          <mxGeometry x="570" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-122" value="&lt;div&gt;Having custody of assets&lt;/div&gt;&lt;div&gt;Being able to authorize the use of assets&lt;/div&gt;&lt;div&gt;Recordkeeping of assets&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-117" vertex="1">
+          <mxGeometry x="900" width="740" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-123" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-117" vertex="1">
+          <mxGeometry x="1640" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-124" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="1430" width="1670" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-125" value="Logging and monitoring" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-124" vertex="1">
+          <mxGeometry width="128" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-126" value="Logs should monitor and store properly." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-124" vertex="1">
+          <mxGeometry x="128" width="152" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-127" value="Attack or event investigation and troubleshooting can be difficult because of lack of monitoring and logging." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-124" vertex="1">
+          <mxGeometry x="280" width="290" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-128" value="check SIEM tools kind of Splunk or Qradar. Make log analysis and if there is any sign of malware or data breach esclate tier 2 or forensic team." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-124" vertex="1">
+          <mxGeometry x="570" width="330" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-129" value="Higher quality logs that provide much more information about user actions taken on our systems. The ability to reconstruct a series of events for research purposes." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=#d79b00;" parent="w6XhrknjYrtz_f-QUOUW-124" vertex="1">
+          <mxGeometry x="900" width="740" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-130" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-124" vertex="1">
+          <mxGeometry x="1640" width="30" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-131" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="w6XhrknjYrtz_f-QUOUW-74" vertex="1">
+          <mxGeometry y="1518" width="1670" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-132" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-131" vertex="1">
+          <mxGeometry width="128" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-133" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-131" vertex="1">
+          <mxGeometry x="128" width="152" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-134" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-131" vertex="1">
+          <mxGeometry x="280" width="290" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-135" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-131" vertex="1">
+          <mxGeometry x="570" width="330" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-136" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-131" vertex="1">
+          <mxGeometry x="900" width="740" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="w6XhrknjYrtz_f-QUOUW-137" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="w6XhrknjYrtz_f-QUOUW-131" vertex="1">
+          <mxGeometry x="1640" width="30" height="88" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
